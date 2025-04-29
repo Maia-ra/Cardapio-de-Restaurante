@@ -37,10 +37,10 @@ As imagens utilizadas foram geradas com o auxílio da **inteligência artificial
 
 ## 📁 Estrutura do Projeto
 
-/img - Pasta com as imagens utilizadas no projeto
-/css style.css - Pasta com o arquivo style.css
-index.html - Arquivo HTML com código do HTML do projeto
-README.md - Esse README que descreve como foi desenvolvido]
+- /img - Pasta com as imagens utilizadas no projeto
+- /css style.css - Pasta com o arquivo style.css
+- index.html - Arquivo HTML com código do HTML do projeto
+- README.md - Esse README que descreve como foi desenvolvido]
 
 ## 📝 Licença
 
